@@ -537,7 +537,8 @@
   placementMode: AlignAtmosPipeLayers # Funky
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit - RPD consistency
+  # - !type:NoUnstackableInTile
   alternativePrototypes: # Funky
   - GasVentPump
   - GasVentPumpAlt1
@@ -552,7 +553,8 @@
   placementMode: AlignAtmosPipeLayers # Funky
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes: # Funky
   - GasPassiveVent
   - GasPassiveVentAlt1
@@ -567,7 +569,8 @@
   placementMode: AlignAtmosPipeLayers # Funky
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes: # Funky
   - GasVentScrubber
   - GasVentScrubberAlt1
@@ -582,7 +585,8 @@
   placementMode: AlignAtmosPipeLayers # Funky
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes: # Funky
   - GasOutletInjector
   - GasOutletInjectorAlt1
@@ -598,7 +602,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressurePump
   - GasPressurePumpAlt1
@@ -614,7 +619,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressurePump
   - GasPressurePumpAlt1
@@ -630,7 +636,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressurePump
   - GasPressurePumpAlt1
@@ -645,7 +652,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVolumePump
   - GasVolumePumpAlt1
@@ -661,7 +669,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVolumePump
   - GasVolumePumpAlt1
@@ -677,7 +686,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVolumePump
   - GasVolumePumpAlt1
@@ -692,7 +702,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPassiveGate
   - GasPassiveGateAlt1
@@ -708,7 +719,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPassiveGate
   - GasPassiveGateAlt1
@@ -724,7 +736,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPassiveGate
   - GasPassiveGateAlt1
@@ -739,7 +752,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressureRegulator
   - GasPressureRegulatorAlt1
@@ -755,7 +769,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressureRegulator
   - GasPressureRegulatorAlt1
@@ -771,7 +786,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPressureRegulator
   - GasPressureRegulatorAlt1
@@ -786,7 +802,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasValve
   - GasValveAlt1
@@ -802,7 +819,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasValve
   - GasValveAlt1
@@ -818,7 +836,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasValve
   - GasValveAlt1
@@ -833,7 +852,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - SignalControlledValve
   - SignalControlledValveAlt1
@@ -849,7 +869,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
   alternativePrototypes:
   - SignalControlledValve
   - SignalControlledValveAlt1
@@ -865,7 +886,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
   alternativePrototypes:
   - SignalControlledValve
   - SignalControlledValveAlt1
@@ -880,7 +902,8 @@
   placementMode: SnapgridCenter
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 - type: construction
   id: GasDualPortVentPump
@@ -921,7 +944,8 @@
   canBuildInImpassable: false
   mirror: GasFilterFlipped
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 - type: construction
   id: GasFilterFlipped
@@ -934,7 +958,8 @@
   canBuildInImpassable: false
   mirror: GasFilter
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 - type: construction
   id: GasMixer
@@ -946,7 +971,8 @@
   canBuildInImpassable: false
   mirror: GasMixerFlipped
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 - type: construction
   id: GasMixerFlipped
@@ -959,7 +985,8 @@
   canBuildInImpassable: false
   mirror: GasMixer
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 - type: construction
   id: PressureControlledValve
@@ -970,7 +997,8 @@
   placementMode: SnapgridCenter
   canBuildInImpassable: false
   conditions:
-    - !type:NoUnstackableInTile
+    # Euphoria edit
+    # - !type:NoUnstackableInTile
 
 # INTERCOM
 - type: construction

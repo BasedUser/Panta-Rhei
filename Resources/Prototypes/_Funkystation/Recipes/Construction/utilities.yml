@@ -60,7 +60,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit - RPD consistency
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVentPump
   - GasVentPumpAlt1
@@ -76,7 +77,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVentPump
   - GasVentPumpAlt1
@@ -92,7 +94,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPassiveVent
   - GasPassiveVentAlt1
@@ -108,7 +111,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasPassiveVent
   - GasPassiveVentAlt1
@@ -124,7 +128,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVentScrubber
   - GasVentScrubberAlt1
@@ -140,7 +145,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasVentScrubber
   - GasVentScrubberAlt1
@@ -156,7 +162,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasOutletInjector
   - GasOutletInjectorAlt1
@@ -172,7 +179,8 @@
   placementMode: AlignAtmosPipeLayers
   canBuildInImpassable: false
   conditions:
-  - !type:NoUnstackableInTile
+  # Euphoria edit
+  # - !type:NoUnstackableInTile
   alternativePrototypes:
   - GasOutletInjector
   - GasOutletInjectorAlt1
